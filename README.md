@@ -98,9 +98,9 @@ https://youtu.be/3dDCzze600I
      [/sdcard/example.jpg]
      
      
-     SET FOTO :
-     SET VIEW :
-     SET TITLE URL :
+     SET FOTO :https://www.google.com/search?q=marcela+paladi&sxsrf=ALeKk01q1XgV0NJ1AXzMh9yyKv7UkiZ4Ww:1624979037838&tbm=isch&source=iu&ictx=1&fir=RdyYm1IwWebXkM%252CkRqCYvw6RF6qHM%252C_&vet=1&usg=AI4_-kTXh5I_t0bVr3U5cnPNSZuirR3DtA&sa=X&ved=2ahUKEwia-8TSjr3xAhWFx4UKHdPOAIIQ9QF6BAgPEAE#imgrc=RdyYm1IwWebXkM
+     SET VIEW ::www.youtube.com
+     SET TITLE URL :urgent
      
      
      FotoSploit> set foto /sdcard/foto.jpg
